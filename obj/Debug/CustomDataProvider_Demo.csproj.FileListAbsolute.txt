@@ -1,0 +1,13 @@
+\\sha-fs-01a\Dynamics-CRM-Support\renhe\Training\CRM 文档\CRM培训\CRM SDK\CRM2015_SDK_Training\CustomDataProvider_Demo\bin\Debug\CustomDataProvider_Demo.dll
+\\sha-fs-01a\Dynamics-CRM-Support\renhe\Training\CRM 文档\CRM培训\CRM SDK\CRM2015_SDK_Training\CustomDataProvider_Demo\bin\Debug\CustomDataProvider_Demo.pdb
+\\sha-fs-01a\Dynamics-CRM-Support\renhe\Training\CRM 文档\CRM培训\CRM SDK\CRM2015_SDK_Training\CustomDataProvider_Demo\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+\\sha-fs-01a\Dynamics-CRM-Support\renhe\Training\CRM 文档\CRM培训\CRM SDK\CRM2015_SDK_Training\CustomDataProvider_Demo\bin\Debug\Microsoft.Xrm.Sdk.Data.dll
+\\sha-fs-01a\Dynamics-CRM-Support\renhe\Training\CRM 文档\CRM培训\CRM SDK\CRM2015_SDK_Training\CustomDataProvider_Demo\bin\Debug\Microsoft.Xrm.Sdk.dll
+\\sha-fs-01a\Dynamics-CRM-Support\renhe\Training\CRM 文档\CRM培训\CRM SDK\CRM2015_SDK_Training\CustomDataProvider_Demo\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+\\sha-fs-01a\Dynamics-CRM-Support\renhe\Training\CRM 文档\CRM培训\CRM SDK\CRM2015_SDK_Training\CustomDataProvider_Demo\bin\Debug\Microsoft.Xrm.Sdk.xml
+\\sha-fs-01a\Dynamics-CRM-Support\renhe\Training\CRM 文档\CRM培训\CRM SDK\CRM2015_SDK_Training\CustomDataProvider_Demo\obj\Debug\CustomDataProvider_Demo.dll
+\\sha-fs-01a\Dynamics-CRM-Support\renhe\Training\CRM 文档\CRM培训\CRM SDK\CRM2015_SDK_Training\CustomDataProvider_Demo\obj\Debug\CustomDataProvider_Demo.pdb
+\\sha-fs-01a\Dynamics-CRM-Support\renhe\Training\CRM 文档\CRM培训\CRM SDK\CRM2015_SDK_Training\CustomDataProvider_Demo\bin\Debug\Newtonsoft.Json.dll
+\\sha-fs-01a\Dynamics-CRM-Support\renhe\Training\CRM 文档\CRM培训\CRM SDK\CRM2015_SDK_Training\CustomDataProvider_Demo\bin\Debug\Newtonsoft.Json.xml
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ilmerge\CustomDataProvider_Demo.dll
+\\sha-fs-01a\Dynamics-CRM-Support\renhe\Training\CRM 文档\CRM培训\CRM SDK\CRM2015_SDK_Training\CustomDataProvider_Demo\obj\Debug\CustomDataProvider_Demo.csprojResolveAssemblyReference.cache
